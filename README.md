@@ -99,13 +99,18 @@ This project presents a complete and lightweight pipeline for sentiment analysis
 
   - **A confusion matrix heatmap shows how well the model performs across sentiment classes.**
 
-  - **Side-by-side bar plots:**
+  ![Image](https://github.com/user-attachments/assets/fdfc7542-864b-44d0-a9e6-ec4a9cfa8ffb)
+
+  
+   - **Side-by-side bar plots:**
 
       - **Left: Original sentiment label distribution.**
 
       - **Right: Model’s predicted sentiment distribution.**
 
       - **Each sentiment is color-coded consistently to easily compare differences.**
+
+    ![Image](https://github.com/user-attachments/assets/8848d8df-ba64-4a6e-be25-6efece0bfa37)
 
 
 
