@@ -110,7 +110,7 @@ This project presents a complete and lightweight pipeline for sentiment analysis
 
       - **Each sentiment is color-coded consistently to easily compare differences.**
 
-    ![Image](https://github.com/user-attachments/assets/8848d8df-ba64-4a6e-be25-6efece0bfa37)
+   ![Image](https://github.com/user-attachments/assets/8848d8df-ba64-4a6e-be25-6efece0bfa37)
 
 
 
